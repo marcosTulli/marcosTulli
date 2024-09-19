@@ -2,6 +2,7 @@
 ### About Me
 - 🌱 I’m currently working as a Front-end developer
 - 📫 Reach me at [marcostulli@hotmail.com](mailto:marcostulli@hotmail.com)
+- Check out my online profile: https://marcos-tulli-cv.vercel.app/ 
 
 
 

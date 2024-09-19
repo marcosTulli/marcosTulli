@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am working on front-end development with react. <br>Trying to reach full-stack development. <br>Learning Nestjs. 
+### About Me
+- 🌱 I’m currently working as a Front-end developer
+- 📫 Reach me at [marcostulli@hotmail.com](mailto:marcostulli@hotmail.com)
+
 
 
 ## 🌐 Socials:
